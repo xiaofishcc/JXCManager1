@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lzw/JXCFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lzw/dao/Dao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lzw/login/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/CzyGL.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/GengGaiMiMa.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/GongYingShangChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/GysGuanLi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/JiaGeTiaoZheng.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/JinHuoDan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/KeHuChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/XiaoShouChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/XiaoShouPaiHang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/XiaoShouTuiHuoChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/czyGl/ShanChuCaoZuoYuan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/czyGl/TJCzy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/gysGuanLi/GysTianJiaPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/gysGuanLi/GysXiuGaiPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/keHuGuanLi/KeHuTianJiaPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/keHuGuanLi/KeHuXiuGaiPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

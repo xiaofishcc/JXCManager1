@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JXCManager:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JXCManager_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JXCManager/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JXCManager" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

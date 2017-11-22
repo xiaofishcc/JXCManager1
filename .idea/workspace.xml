@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cdf4e17-c45e-45d1-a8dd-f6a798eaffc5" name="Default" comment="jxc">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/_src_/database/test02/schema/dbo.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/JXCFrame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/JXCFrame$FrameListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/JXCFrame$openFrameAction$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/JXCFrame$openFrameAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/JXCFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/dao/Dao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/login/Login$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/login/Login$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/login/Login$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/login/Login.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/login/LoginPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/com/lzw/welcome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/CzyGL$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/CzyGL$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/CzyGL.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GengGaiMiMa$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GengGaiMiMa$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GengGaiMiMa$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GengGaiMiMa$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GengGaiMiMa.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GongYingShangChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GongYingShangChaXun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GongYingShangChaXun$queryAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GongYingShangChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GysGuanLi$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/GysGuanLi.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JiaGeTiaoZheng$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JiaGeTiaoZheng$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JiaGeTiaoZheng$CloseActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JiaGeTiaoZheng$ItemActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JiaGeTiaoZheng$OkActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JiaGeTiaoZheng.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$RkActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$TjActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$computeInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$initTasks$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan$initTasks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoDan.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$computeInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$initTasks$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo$initTasks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/JinHuoTuiHuo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KeHuChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KeHuChaXun$queryAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KeHuChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KeHuGuanLi$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KeHuGuanLi.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KuCunPanDian$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/KuCunPanDian.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/QuanManager$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/QuanManager$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/QuanManager$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/QuanManager$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/QuanManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuChaXun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuChaXun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuChaXun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuTuiHuoChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuTuiHuoChaXun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuTuiHuoChaXun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuTuiHuoChaXun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/RuKuTuiHuoChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinChaXun$QueryAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinGuanLi$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinGuanLi$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinGuanLi$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/ShangPinGuanLi.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouChaXun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouChaXun$QueryActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouChaXun$ShowAllActoinListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$computeInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$initTasks$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan$initTasks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouDan.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouPaiHang$OkAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouPaiHang.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$computeInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$initTasks$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo$initTasks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuoChaXun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuoChaXun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuoChaXun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuoChaXun$QueryAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/XiaoShouTuiHuoChaXun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/customCellEditor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/ShanChuCaoZuoYuan$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/ShanChuCaoZuoYuan$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/ShanChuCaoZuoYuan$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/ShanChuCaoZuoYuan.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/TJCzy$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/TJCzy$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/czyGl/TJCzy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/guanli/Item.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysTianJiaPanel$ResetActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysTianJiaPanel$TjActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysTianJiaPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysXiuGaiPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysXiuGaiPanel$DelActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysXiuGaiPanel$ModifyActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/gysGuanLi/GysXiuGaiPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuTianJiaPanel$ChongZheButtonActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuTianJiaPanel$SaveButtonActionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuTianJiaPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuXiuGaiPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuXiuGaiPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuXiuGaiPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/keHuGuanLi/KeHuXiuGaiPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/keyListener/InputKeyListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbGysinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbKhinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbKucun.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbRkthDetail.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbRkthMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbRukuDetail.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbRukuMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbSellDetail.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbSellMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbSpinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbUserlist.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbXsthDetail.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TbXsthMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/JXCManager_Web_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d8060078-45b6-416d-b341-a8be8b1dcc4e/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/msbase.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mssqlserver.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/msutil.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sqljdbc42.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.myhibernatedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JXCManager.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manifest.mf" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Microsoft" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Microsoft" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="test02" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="dbo" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Microsoft" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="test02" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="dbo" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="JXCFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lzw/JXCFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="174" column="36" lean-forward="false" selection-start-line="174" selection-start-column="36" selection-end-line="174" selection-end-column="36" />
+              <folding>
+                <element signature="method#JXCFrame#0;class#JXCFrame#0" expanded="true" />
+                <element signature="method#main#0;class#JXCFrame#0" expanded="true" />
+                <element signature="e#2178#2256#0" expanded="true" />
+                <element signature="e#2255#2256#0" expanded="true" />
+                <element signature="method#createFrameButton#0;class#JXCFrame#0" expanded="true" />
+                <element signature="method#updateBackImage#0;class#JXCFrame#0" expanded="true" />
+                <element signature="method#openFrameAction#1;class#openFrameAction#0;class#JXCFrame#0" expanded="true" />
+                <element signature="method#actionPerformed#0;class#openFrameAction#0;class#JXCFrame#0" expanded="true" />
+                <element signature="e#8201#8342#0" expanded="true" />
+                <element signature="e#8341#8342#0" expanded="true" />
+                <element signature="initializer##0;class#JXCFrame#0" expanded="true" />
+                <marker date="1511244331859" expanded="true" signature="8169:8547" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JinHuoDan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/internalFrame/JinHuoDan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="45" />
+              <folding>
+                <element signature="method#JinHuoDan#0;class#JinHuoDan#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JinHuoTuiHuo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/internalFrame/JinHuoTuiHuo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="385" column="5" lean-forward="true" selection-start-line="385" selection-start-column="5" selection-end-line="385" selection-end-column="5" />
+              <folding>
+                <element signature="method#JinHuoTuiHuo#0;class#JinHuoTuiHuo#0" expanded="true" />
+                <element signature="e#2617#2734#0" expanded="true" />
+                <element signature="e#2733#2734#0" expanded="true" />
+                <element signature="e#3391#3627#0" expanded="true" />
+                <element signature="e#3626#3627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XiaoShouTuiHuo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouTuiHuo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XiaoShouDan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouDan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="44" column="55" lean-forward="true" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+              <folding>
+                <element signature="method#XiaoShouDan#0;class#XiaoShouDan#0" expanded="true" />
+                <element signature="e#3360#3598#0" expanded="true" />
+                <element signature="e#3597#3598#0" expanded="true" />
+                <element signature="e#4622#5088#0" expanded="true" />
+                <element signature="e#5087#5088#0" expanded="true" />
+                <element signature="method#initTable#0;class#XiaoShouDan#0" expanded="true" />
+                <element signature="method#initSpBox#0;class#XiaoShouDan#0" expanded="true" />
+                <element signature="method#setupComponet#0;class#XiaoShouDan#0" expanded="true" />
+                <element signature="method#doKhSelectAction#0;class#XiaoShouDan#0" expanded="true" />
+                <element signature="method#componentRemoved#0;class#computeInfo#0;class#XiaoShouDan#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbKucun.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/TbKucun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lzw/login/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="method#Login#0;class#Login#0" expanded="true" />
+                <element signature="e#1555#1909#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
+                <element signature="e#2041#2159#0" expanded="true" />
+                <element signature="e#2158#2159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KuCunPanDian.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/internalFrame/KuCunPanDian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="70" column="29" lean-forward="true" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+              <folding>
+                <element signature="method#KuCunPanDian#0;class#KuCunPanDian#0" expanded="true" />
+                <element signature="method#initTable#0;class#KuCunPanDian#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RuKuChaXun.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/internalFrame/RuKuChaXun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="210" column="39" lean-forward="false" selection-start-line="210" selection-start-column="24" selection-end-line="210" selection-end-column="39" />
+              <folding>
+                <element signature="e#2977#3111#0" expanded="true" />
+                <element signature="e#3110#3111#0" expanded="true" />
+                <element signature="e#3560#4781#0" expanded="true" />
+                <element signature="e#4780#4781#0" expanded="true" />
+                <element signature="e#7275#7276#0" expanded="true" />
+                <marker date="1511255813370" expanded="false" signature="8633:8894" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbUserlist.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/TbUserlist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>msbase</find>
+      <find>dbUser</find>
+      <find>登录失败</find>
+      <find>Login.getUser();</find>
+      <find>actionPerformed</find>
+      <find>componentRemoved</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/internalFrame/czyGl/ShanChuCaoZuoYuan.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/czyGl/TJCzy.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/gysGuanLi/GysTianJiaPanel.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/gysGuanLi/GysXiuGaiPanel.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/keHuGuanLi/KeHuTianJiaPanel.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/keHuGuanLi/KeHuXiuGaiPanel.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/CzyGL.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/GengGaiMiMa.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/GongYingShangChaXun.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/GysGuanLi.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/JiaGeTiaoZheng.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/KeHuChaXun.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/XiaoShouChaXun.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/XiaoShouPaiHang.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/XiaoShouTuiHuoChaXun.java" />
+        <option value="$PROJECT_DIR$/src/com/lzw/dao/Dao.java" />
+        <option value="$PROJECT_DIR$/src/com/lzw/login/LoginPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/lzw/JXCFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/lzw/login/Login.java" />
+        <option value="$PROJECT_DIR$/src/model/TbUserlist.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/JinHuoDan.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/KuCunPanDian.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/XiaoShouTuiHuo.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/XiaoShouDan.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/RuKuChaXun.java" />
+        <option value="$PROJECT_DIR$/src/internalFrame/JinHuoTuiHuo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JXCManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JXCManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JXCManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JXCManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JXCManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\studyfiles\JAVA项目开发案例全程实录(第二版)全部源码\JAVA项目开发案例全程实录(第二版)全部源码\TM\01\JXCManager\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JXCFrame">
+    <configuration default="false" name="JXCFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.lzw.JXCFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JXCManager" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JXCManager" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="JXCManager" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.41" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.8.0_102\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JXCManager:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JXCManager" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45128" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JXCManager:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.JXCManager" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JXCFrame" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.JXCFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cdf4e17-c45e-45d1-a8dd-f6a798eaffc5" name="Default" comment="" />
+      <created>1511145611593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511145611593</updated>
+      <workItem from="1511145613098" duration="23945000" />
+    </task>
+    <task id="LOCAL-00001" summary="进货退货">
+      <created>1511313335008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511313335008</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jxc">
+      <created>1511313582654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511313582654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5021322" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31556502" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957264" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17697228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="进货退货" />
+    <MESSAGE value="jxc" />
+    <option name="LAST_COMMIT_MESSAGE" value="jxc" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/internalFrame/JinHuoDan.java</url>
+          <line>54</line>
+          <properties field="czy" class="internalFrame.JinHuoDan" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/internalFrame/JinHuoDan.java</url>
+          <line>53</line>
+          <properties field="ysjl" class="internalFrame.JinHuoDan" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d8060078-45b6-416d-b341-a8be8b1dcc4e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/TbGysinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1741">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/czyGl/ShanChuCaoZuoYuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/guanli/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/gysGuanLi/GysTianJiaPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/gysGuanLi/GysXiuGaiPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/keHuGuanLi/KeHuTianJiaPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/shangPinGuanLi/ShangPinTianJiaPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/shangPinGuanLi/ShangPinXiuGaiPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/customCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/CzyGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <marker date="1413300630330" expanded="false" signature="807:879" ph="(e) → { " />
+            <marker date="1413300630330" expanded="false" signature="900:909" ph=" }" />
+            <marker date="1413300630330" expanded="false" signature="987:1506" ph="{...}" />
+            <marker date="1413300630330" expanded="true" signature="1033:1501" ph="{...}" />
+            <marker date="1413300630330" expanded="false" signature="1077:1454" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/GengGaiMiMa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/GongYingShangChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/GysGuanLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1192813964000" expanded="false" signature="733:805" ph="(e) → { " />
+            <marker date="1192813964000" expanded="false" signature="830:839" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/JiaGeTiaoZheng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/KeHuChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/KeHuGuanLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/QuanManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/RuKuTuiHuoChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/ShangPinChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/ShangPinGuanLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzw/welcome.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/lzw/login/Login$1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/lzw/login/Login.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2259">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/login.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/TbXsthMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="107" column="1" lean-forward="false" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/keyListener/InputKeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="method#keyTyped#0;class#InputKeyListener#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouTuiHuoChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouPaiHang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/keHuGuanLi/KeHuXiuGaiPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding>
+            <element signature="method#initComboBox#0;class#KeHuXiuGaiPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/czyGl/TJCzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc42.jar!/microsoft/sql/DateTimeOffset.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzw/dao/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="method#getKhInfo#0;class#Dao#0" expanded="true" />
+            <element signature="method#getUser#0;class#Dao#0" expanded="true" />
+            <element signature="method#findForList#0;class#Dao#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzw/login/LoginPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="method#paintComponent#0;class#LoginPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzw/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="method#Login#0;class#Login#0" expanded="true" />
+            <element signature="e#1555#1909#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+            <element signature="e#2041#2159#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lzw/JXCFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="174" column="36" lean-forward="false" selection-start-line="174" selection-start-column="36" selection-end-line="174" selection-end-column="36" />
+          <folding>
+            <element signature="method#JXCFrame#0;class#JXCFrame#0" expanded="true" />
+            <element signature="method#main#0;class#JXCFrame#0" expanded="true" />
+            <element signature="e#2178#2256#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="method#createFrameButton#0;class#JXCFrame#0" expanded="true" />
+            <element signature="method#updateBackImage#0;class#JXCFrame#0" expanded="true" />
+            <element signature="method#openFrameAction#1;class#openFrameAction#0;class#JXCFrame#0" expanded="true" />
+            <element signature="method#actionPerformed#0;class#openFrameAction#0;class#JXCFrame#0" expanded="true" />
+            <element signature="e#8201#8342#0" expanded="true" />
+            <element signature="e#8341#8342#0" expanded="true" />
+            <element signature="initializer##0;class#JXCFrame#0" expanded="true" />
+            <marker date="1511244331859" expanded="true" signature="8169:8547" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/TbUserlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/JinHuoDan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="method#JinHuoDan#0;class#JinHuoDan#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouTuiHuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/XiaoShouDan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="44" column="55" lean-forward="true" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+          <folding>
+            <element signature="method#XiaoShouDan#0;class#XiaoShouDan#0" expanded="true" />
+            <element signature="e#3360#3598#0" expanded="true" />
+            <element signature="e#3597#3598#0" expanded="true" />
+            <element signature="e#4622#5088#0" expanded="true" />
+            <element signature="e#5087#5088#0" expanded="true" />
+            <element signature="method#initTable#0;class#XiaoShouDan#0" expanded="true" />
+            <element signature="method#initSpBox#0;class#XiaoShouDan#0" expanded="true" />
+            <element signature="method#setupComponet#0;class#XiaoShouDan#0" expanded="true" />
+            <element signature="method#doKhSelectAction#0;class#XiaoShouDan#0" expanded="true" />
+            <element signature="method#componentRemoved#0;class#computeInfo#0;class#XiaoShouDan#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/TbKucun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/KuCunPanDian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="70" column="29" lean-forward="true" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+          <folding>
+            <element signature="method#KuCunPanDian#0;class#KuCunPanDian#0" expanded="true" />
+            <element signature="method#initTable#0;class#KuCunPanDian#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/RuKuChaXun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="210" column="39" lean-forward="false" selection-start-line="210" selection-start-column="24" selection-end-line="210" selection-end-column="39" />
+          <folding>
+            <element signature="e#2977#3111#0" expanded="true" />
+            <element signature="e#3110#3111#0" expanded="true" />
+            <element signature="e#3560#4781#0" expanded="true" />
+            <element signature="e#4780#4781#0" expanded="true" />
+            <element signature="e#7275#7276#0" expanded="true" />
+            <marker date="1511255813370" expanded="false" signature="8633:8894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/internalFrame/JinHuoTuiHuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="385" column="5" lean-forward="true" selection-start-line="385" selection-start-column="5" selection-end-line="385" selection-end-column="5" />
+          <folding>
+            <element signature="method#JinHuoTuiHuo#0;class#JinHuoTuiHuo#0" expanded="true" />
+            <element signature="e#2617#2734#0" expanded="true" />
+            <element signature="e#2733#2734#0" expanded="true" />
+            <element signature="e#3391#3627#0" expanded="true" />
+            <element signature="e#3626#3627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JXCManager:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (JXCManager)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|JXCManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>msbase</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
