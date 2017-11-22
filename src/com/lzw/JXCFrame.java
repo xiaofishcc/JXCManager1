@@ -1,15 +1,12 @@
 package com.lzw;
 import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.Image;
 import java.awt.Insets;
-import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;
 import java.beans.PropertyVetoException;
 import java.lang.reflect.Constructor;
-import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -23,7 +20,6 @@ import javax.swing.JDesktopPane;
 import javax.swing.JFrame;
 import javax.swing.JInternalFrame;
 import javax.swing.JLabel;
-import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
 import javax.swing.SwingConstants;
@@ -32,7 +28,6 @@ import javax.swing.UIManager;
 import javax.swing.border.BevelBorder;
 import javax.swing.event.InternalFrameAdapter;
 import javax.swing.event.InternalFrameEvent;
-
 import com.lzw.login.Login;
 public class JXCFrame {
 	private JPanel sysManagePanel;
